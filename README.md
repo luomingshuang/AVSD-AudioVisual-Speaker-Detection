@@ -29,8 +29,8 @@ strength and the contributions of the dataset.
 3. https://github.com/okankop/ASDNet, https://arxiv.org/pdf/2106.03932.pdf
  <img width="244" alt="d0ed106dc215fe90048637bda131c5f" src="https://user-images.githubusercontent.com/37799481/142824073-87abd554-b3e1-4465-8a17-a69a1db0bcd0.png">
  
- 4. https://github.com/facebookresearch/VisualVoice, 
- 
+ 4. https://github.com/facebookresearch/VisualVoice, https://arxiv.org/pdf/2101.03149.pdf
+ ![image](https://user-images.githubusercontent.com/37799481/142829475-968ac7a1-042e-45c8-9d36-06ca16c5d902.png)
  
 ## papers:
 1. https://arxiv.org/pdf/2108.07640.pdf
